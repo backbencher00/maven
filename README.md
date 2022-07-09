@@ -1,4 +1,3 @@
 # mvn
 Maven notes
-https://drive.google.com/file/d/1ml4nypzFB24Mh504Jo7n1DY87zmw4nOJ/view?usp=sharing
-
+https://drive.google.com/drive/folders/1HgAOeGHUlzxQNrbLKEOqjnt15NqE09i7?usp=sharing
